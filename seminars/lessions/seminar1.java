@@ -1,4 +1,4 @@
-package seminars;
+package seminars.lessions;
 import java.time.LocalDateTime;
 import java.util.Scanner;
 
